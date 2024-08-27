@@ -1,0 +1,10 @@
+/*Seletor de elemento*/
+body{
+    background-color: rgb(128, 128, 128);
+}
+  
+div{
+    border-style: dotted 10px;
+    margin: 3%;
+}
+  
